@@ -107,8 +107,7 @@ Clone this repository to your desired folder:
 ### Navigate to the folder
 
 ```sh
-  cd my-project
-  gem install
+  cd school_library
 ```
 
 ## 👥 Authors <a name="authors"></a>
